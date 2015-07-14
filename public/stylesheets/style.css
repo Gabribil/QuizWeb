@@ -7,6 +7,9 @@ body {
 	font: 16px "Georgia", serif;
 }
 
+img {
+  width: 20%;
+}
 
 #page-wrap {
 	margin: 2% auto;
