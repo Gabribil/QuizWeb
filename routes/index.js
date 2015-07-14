@@ -11,11 +11,8 @@ router.get('/', function(req, res) {
 
 router.get('/quizes/question', quizController.question);
 router.get('/quizes/answer', quizController.answer);
-<<<<<<< HEAD
 router.get('/author', quizController.author);
-=======
-router.get('/author' ,author);
->>>>>>> master
+
 
 
 module.exports = router;
