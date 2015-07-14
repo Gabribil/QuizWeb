@@ -1,3 +1,0 @@
-	
-	<h3>Autor de <%= title %>: Gabriel Moreno</h3>
-    <p>Foto:<img src="../public/images/MiEquipo.png" alt="Te quiero en mi Equipo..."></p>
