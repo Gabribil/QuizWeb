@@ -25,8 +25,10 @@ $RECYCLE.BIN/
 # =========================
 
 .DS_Store
+node_modules
 .AppleDouble
 .LSOverride
+quiz.sqlite
 
 # Thumbnails
 ._*
